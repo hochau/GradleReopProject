@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleRepoDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleRepoDemo.iml" group="GradleRepoDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GradleRepoDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonlibrary/commonlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/commonlibrary/commonlibrary.iml" group="GradleRepoDemo/commonlibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-repo/gradle-repo.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-repo/gradle-repo.iml" group="gradle-repo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library1/library1.iml" filepath="$PROJECT_DIR$/.idea/modules/library1/library1.iml" group="GradleRepoDemo/library1" />
+    </modules>
+  </component>
+</project>
